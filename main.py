@@ -22,4 +22,5 @@ def brute_force():
                         print('heslo je', heslo)
                         return heslo
 
+brute_force()
 
